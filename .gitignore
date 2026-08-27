@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Generated reports and downloads
+downloaded-reports/
+reports/
+
+# Generated Lambda package
+lambda_function.zip
+
+# Runtime/output files
+lambda-response.json
+
+# AWS credentials
+.aws/
+credentials
+config

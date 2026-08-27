@@ -1,0 +1,6 @@
+[
+    {
+        "Id": "1",
+        "Arn": "arn:aws:lambda:ap-south-1:568521408843:function:aws-cloud-cost-optimizer"
+    }
+]
